@@ -2,5 +2,9 @@
 
 prueba con carta
 
+<<<<<<< HEAD
 
 prueba de error
+=======
+oh changos
+>>>>>>> 28927296853e7229e20398409892ec385a8d9a1b
